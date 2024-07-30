@@ -13,3 +13,4 @@
 md-sameer1/md-sameer1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/sam_7857"><img src="https://api.daily.dev/devcards/v2/ryw8b20QquidAGSjlI9oJ.png?r=vrt&type=default" width="356" alt="Md Sameer's Dev Card"/></a>
