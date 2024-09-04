@@ -15,4 +15,3 @@ You can click the Preview link to take a look at your changes.
 --->
 <a href="https://app.daily.dev/sam_7857"><img src="https://api.daily.dev/devcards/v2/ryw8b20QquidAGSjlI9oJ.png?r=vrt&type=default" width="356" alt="Md Sameer's Dev Card"/></a>
 
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-sameer1&show_icons=true&theme=radical)
